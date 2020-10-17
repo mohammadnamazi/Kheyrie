@@ -1,0 +1,65 @@
+M:\mybot\kheyrie\kheyrie\bin\Debug\kheyrie.exe.config
+M:\mybot\kheyrie\kheyrie\bin\Debug\kheyrie.exe
+M:\mybot\kheyrie\kheyrie\bin\Debug\kheyrie.pdb
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form1.resources
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form2.resources
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form3.resources
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form4.resources
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form6.resources
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form5.resources
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Properties.Resources.resources
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.csproj.GenerateResource.Cache
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.exe
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.pdb
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form7.resources
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.exe.manifest
+M:\mybot\kheyrie\kheyrie\bin\Debug\kheyrie.exe.manifest
+M:\mybot\kheyrie\kheyrie\bin\Debug\kheyrie.application
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.application
+M:\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.csprojResolveAssemblyReference.cache
+M:\mybot\kheyrie\kheyrie\bin\Debug\kheyri.mdb
+M:\mybot\kheyrie\kheyrie\bin\Debug\kheyri.mdf
+M:\mybot\kheyrie\kheyrie\bin\Debug\kheyri_log.ldf
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.csprojAssemblyReference.cache
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form1.resources
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form2.resources
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form3.resources
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form4.resources
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form6.resources
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form5.resources
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Properties.Resources.resources
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form7.resources
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.csproj.GenerateResource.cache
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.exe
+D:\Drive M\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.pdb
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.csprojAssemblyReference.cache
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form1.resources
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form2.resources
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form3.resources
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form4.resources
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form6.resources
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form5.resources
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Properties.Resources.resources
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.Form7.resources
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.csproj.GenerateResource.cache
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.exe
+C:\Users\mohamad namazi\Desktop\mybot\kheyrie\kheyrie\obj\Debug\kheyrie.pdb
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.csprojAssemblyReference.cache
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.Form1.resources
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.Form2.resources
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.Form3.resources
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.Form4.resources
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.Form6.resources
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.Form5.resources
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.Properties.Resources.resources
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.Form7.resources
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.csproj.GenerateResource.cache
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.exe
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.pdb
+F:\oldest projects c#\kheyrie\kheyrie\bin\Debug\kheyri.mdb
+F:\oldest projects c#\kheyrie\kheyrie\bin\Debug\kheyri.mdf
+F:\oldest projects c#\kheyrie\kheyrie\bin\Debug\kheyri_log.ldf
+F:\oldest projects c#\kheyrie\kheyrie\bin\Debug\kheyrie.exe.config
+F:\oldest projects c#\kheyrie\kheyrie\bin\Debug\kheyrie.exe
+F:\oldest projects c#\kheyrie\kheyrie\bin\Debug\kheyrie.pdb
+F:\oldest projects c#\kheyrie\kheyrie\obj\Debug\kheyrie.csproj.CoreCompileInputs.cache
